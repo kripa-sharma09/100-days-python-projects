@@ -10,4 +10,4 @@ This repository contains all the mini projects I build while learning python
 |  1  | Band Name Generator                        |
 |  2  | Tip Calculator                             |
 |  3  | Treasure Island                            |
-|  4  |                                            |
+|  4  | Coming soon..                              |
