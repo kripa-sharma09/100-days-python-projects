@@ -9,5 +9,5 @@ This repository contains all the mini projects I build while learning python
 |-----|--------------------------------------------|
 |  1  | Band Name Generator                        |
 |  2  | Tip Calculator                             |
-|  3  | Treasure Island                            |
-|  4  | Coming soon..                              |
+|  3  | Treasure Island game                       |
+|  4  | Rock Paper Scissors game                   |
